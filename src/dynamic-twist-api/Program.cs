@@ -26,7 +26,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors(build =>
-    build.WithOrigins(builder.Configuration["CORS:AllowedOrigins"])
+    build.WithOrigins(builder.Configuration["CORS:AllowedOrigins"]) 
          .WithHeaders(builder.Configuration["CORS:AllowedHeaders"])
          .WithMethods(builder.Configuration["CORS:AllowedMethods"])
 );
