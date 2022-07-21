@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IRDZXAEkenH5eEq+/d0+mTeFd5U5prgs1HvsceNB2qk=",
+  "Source": "dev-blog-api",
+  "BasePath": "_content/dev-blog-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
