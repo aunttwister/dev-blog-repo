@@ -28,6 +28,7 @@ jobs:
 
     - name: Install dependencies
       run: dotnet restore
+      working-directory: src/dynamic-twist-api
       
     - name: Build
       run: dotnet build --configuration Release --no-restore
