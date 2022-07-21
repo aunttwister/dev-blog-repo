@@ -27,7 +27,7 @@ jobs:
         dotnet-version: ${{ env.DOTNET_VERSION }}
 
     - name: Install dependencies
-      run: dotnet restore
+      run: dotnet restore ./dynamic-twist-api.sln
       
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build dynamic-twist-backend/src/dynamic-twist-api.csproj --configuration Release --no-restore
