@@ -543,9 +543,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pavle Curcic\\source\\repos\\dev-blog-repo\\src\\dev-blog-api\\dynamic-twist-backend.csproj",
-      "projectName": "dynamic-twist-backend",
-      "projectPath": "C:\\Users\\Pavle Curcic\\source\\repos\\dev-blog-repo\\src\\dev-blog-api\\dynamic-twist-backend.csproj",
+      "projectUniqueName": "C:\\Users\\Pavle Curcic\\source\\repos\\dev-blog-repo\\src\\dev-blog-api\\dynamic-twist-api.csproj",
+      "projectName": "dynamic-twist-api",
+      "projectPath": "C:\\Users\\Pavle Curcic\\source\\repos\\dev-blog-repo\\src\\dev-blog-api\\dynamic-twist-api.csproj",
       "packagesPath": "C:\\Users\\Pavle Curcic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pavle Curcic\\source\\repos\\dev-blog-repo\\src\\dev-blog-api\\obj\\",
       "projectStyle": "PackageReference",

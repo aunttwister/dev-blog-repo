@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>dynamic-twist-backend</RootNamespace>
+    <RootNamespace>dynamic-twist-api</RootNamespace>
     <UserSecretsId>73357b49-6e47-453c-8314-d972bc142904</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
