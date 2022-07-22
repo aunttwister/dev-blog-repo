@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nV5Y4n6FvuEe/wnAOMOeKicqx+OtX2STxCjqWi4i7zvR+7PHAqUwwIctzKv5zEUdnEMgB+1cBE6mkP/zzXgGOQ==",
+  "dgSpecHash": "yCRvCU4KQHi5N8OZZeVd7O6k8ijcgcqO6ZGeVf+ihAaf3IWloPFi91Tjqe2xtZ2gBDTx+KwR1GM8F29Vy2x8Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pavle Curcic\\source\\repos\\dev-blog-repo\\src\\dynamic-twist-api\\dynamic-twist-api.csproj",
+  "projectFilePath": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\Developer blog\\dynamic-twist-api\\dynamic-twist-api\\dynamic-twist-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pavle Curcic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Pavle Curcic\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
