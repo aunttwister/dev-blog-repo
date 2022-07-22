@@ -30,4 +30,4 @@ jobs:
       run: dotnet restore ../../dynamic-twist-api.sln
       
     - name: Build
-      run: dotnet build dynamic-twist-backend/src/dynamic-twist-api.csproj --configuration Release --no-restore
+      run: dotnet build ../../dynamic-twist-api.csproj --configuration Release --no-restore
