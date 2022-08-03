@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "vG8Lxlq/Bg3fTsCUU7+uKJmij5/WpAjzzuM3/vg5hJA=",
+  "Hash": "dkQRExRqAq2yElQmP4jVs4C1j0PNKHG+MaH8dB6Sscs=",
   "Source": "dynamic-twist-api",
   "BasePath": "_content/dynamic-twist-api",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {

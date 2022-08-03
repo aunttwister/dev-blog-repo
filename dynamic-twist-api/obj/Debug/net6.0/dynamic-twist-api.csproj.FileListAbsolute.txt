@@ -26,3 +26,34 @@ C:\Users\Pavle Curcic\source\repos\dev-blog-repo\src\dev-blog-api\obj\Debug\net6
 C:\Users\Pavle Curcic\source\repos\dev-blog-repo\src\dev-blog-api\obj\Debug\net6.0\dynamic-twist-api.pdb
 C:\Users\Pavle Curcic\source\repos\dev-blog-repo\src\dev-blog-api\obj\Debug\net6.0\dynamic-twist-api.genruntimeconfig.cache
 C:\Users\Pavle Curcic\source\repos\dev-blog-repo\src\dev-blog-api\obj\Debug\net6.0\ref\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.json
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.staticwebassets.runtime.json
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.exe
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.deps.json
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.runtimeconfig.json
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.AssemblyReference.cache
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfoInputs.cache
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfo.cs
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CoreCompileInputs.cache
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\scopedcss\bundle\dynamic-twist-api.styles.css
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CopyComplete
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\refint\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.genruntimeconfig.cache
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\ref\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Markdig.dll
+C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Westwind.AspNetCore.Markdown.dll
