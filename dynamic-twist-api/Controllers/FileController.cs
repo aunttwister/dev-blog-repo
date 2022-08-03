@@ -1,7 +1,7 @@
-﻿using dev_blog_api.Services;
+﻿using dynamic_twist_api.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace dev_blog_api.Controllers
+namespace dynamic_twist_api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

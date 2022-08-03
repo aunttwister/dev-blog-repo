@@ -1,4 +1,4 @@
-﻿namespace dev_blog_api.Services
+﻿namespace dynamic_twist_api.Services
 {
     public interface IFileService
     {
