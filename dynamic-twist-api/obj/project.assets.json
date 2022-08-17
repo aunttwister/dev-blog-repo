@@ -168,6 +168,15 @@
           "lib/net6.0/Grpc.Net.Common.dll": {}
         }
       },
+      "Mammoth/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Mammoth.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Mammoth.dll": {}
+        }
+      },
       "Markdig/0.30.2": {
         "type": "package",
         "compile": {
@@ -809,6 +818,18 @@
         "packageIcon.png"
       ]
     },
+    "Mammoth/1.4.0": {
+      "sha512": "Fh8e07s+IJaPDKO5v0tW+x4SdZ/5Tq17AOAG0bdwZ3uqKdB3Ig4iUm4WyUmtP7D+i8TgqEa5COQD4U7QtobTWw==",
+      "type": "package",
+      "path": "mammoth/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Mammoth.dll",
+        "mammoth.1.4.0.nupkg.sha512",
+        "mammoth.nuspec"
+      ]
+    },
     "Markdig/0.30.2": {
       "sha512": "rm5rfHGP0BZtcB31CmQeWLLPdpG6xA6xN92x2KcNrl+9MPJONq9u4dfG7VgnTOxdjDnuEkX6GCxMYS+LpoKGOQ==",
       "type": "package",
@@ -1410,6 +1431,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Google.Cloud.SecretManager.V1 >= 2.0.0",
+      "Mammoth >= 1.4.0",
       "Microsoft.AspNetCore.StaticFiles >= 2.1.1",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.16.1",
       "Newtonsoft.Json >= 13.0.1",
@@ -1465,6 +1487,10 @@
             "target": "Package",
             "version": "[2.0.0, )"
           },
+          "Mammoth": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          },
           "Microsoft.AspNetCore.StaticFiles": {
             "target": "Package",
             "version": "[2.1.1, )"
@@ -1507,5 +1533,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Mammoth 1.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Mammoth",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

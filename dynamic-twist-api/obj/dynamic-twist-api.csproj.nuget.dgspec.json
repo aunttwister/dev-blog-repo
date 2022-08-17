@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[2.0.0, )"
             },
+            "Mammoth": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
               "version": "[2.1.1, )"

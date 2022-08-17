@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Cloud.SecretManager.V1" Version="2.0.0" />
+    <PackageReference Include="Mammoth" Version="1.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.1.1" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.16.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
@@ -19,9 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\markdown\about-me\" />
-    <Folder Include="wwwroot\markdown\tutorial\" />
-    <Folder Include="wwwroot\images\" />
+    <Folder Include="Application.Core\Exceptions\" />
+    <Folder Include="wwwroot\html\about-me\" />
+    <Folder Include="wwwroot\html\blog\" />
+    <Folder Include="wwwroot\html\tutorial\" />
   </ItemGroup>
 
 </Project>
