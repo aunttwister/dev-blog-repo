@@ -1,5 +1,4 @@
 using dynamic_twist_api.Application.Core.Authetication;
-using dynamic_twist_api.Authentication;
 using dynamic_twist_api.Services.ArticleService;
 using dynamic_twist_api.Services.WordConvertService;
 using Microsoft.AspNetCore.Authorization;
