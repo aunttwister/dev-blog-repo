@@ -47,10 +47,20 @@ namespace dynamic_twist_api.Controllers
             {
                 return BadRequest("Unsupported file format.");
             }
+
             var wordStream = articleUpload.WordFile.OpenReadStream();
             await _articleService.PostArticleAsync(articleUpload.Type, articleUpload.FileName, wordStream);
 
             return Ok();
+        }
+
+        [HttpDelete]
+        [Route("delete/{type}/{fileName}")]
+        [Authorize]
+        public IActionResult DeleteArticle([FromRoute] string type, [FromRoute] string fileName)
+        {
+            _articleService.DeleteArticle(type, fileName);
+            return NoContent();
         }
     }
 }

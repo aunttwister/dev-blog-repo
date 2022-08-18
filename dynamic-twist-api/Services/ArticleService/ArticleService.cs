@@ -16,9 +16,11 @@ namespace dynamic_twist_api.Services.ArticleService
         }
         public async Task<IEnumerable<Models.Article>> GetArticlesAsync(string type)
         {
-            IFileInfo[] files = _hostEnvironment.WebRootFileProvider.GetDirectoryContents($"/html/{type}/").ToArray();
+            IFileInfo[] files = _hostEnvironment.WebRootFileProvider.GetDirectoryContents($"/html/{type}/")
+                                                                    .Where(f => f.Exists)
+                                                                    .ToArray();
 
-            var list = files.Select(async f =>
+            var list = files.Distinct().Select(async f =>
             {
                 var subStrings = f.Name.Split("#");
                 return new Models.Article
@@ -49,6 +51,20 @@ namespace dynamic_twist_api.Services.ArticleService
         public async Task PostArticleAsync(string type, string fileName, Stream fileData)
         {
             await _wordConverterService.ConvertWordToHtml(type, fileName, fileData);
+        }
+
+        public void DeleteArticle(string type, string fileName)
+        {
+            string fullPath = (_hostEnvironment.WebRootPath + $"/html/{type}/{fileName}.html");
+            if (File.Exists(fullPath))
+                File.Delete(fullPath);
+        }
+
+        public bool IsUnique(string type, string fileName)
+        {
+            IFileInfo file = _hostEnvironment.WebRootFileProvider.GetDirectoryContents($"/html/{type}/").FirstOrDefault(f => f.Name == fileName + ".html");
+
+            return file == null;
         }
     }
 }
