@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KspDbvJBNzz4T12B5HbDnpWffvLdo7CKWQscrdp+r+s3n8vZPEmf+3MNGEGitT7PF+E2HIf5Tf9crYM+qlzm6g==",
+  "dgSpecHash": "uxbsV2IYVSuSkMdbc7YJYNBcCCzfodrcYlCR/bZIPDOGG2ZbE5lZ+O0nTkbX/19GbodhsFCVNNSXLwoNc+L6ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\Developer blog\\dynamic-twist-api\\dynamic-twist-api\\dynamic-twist-api.csproj",
+  "projectFilePath": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\dynamic-twist-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pavle Curcic\\.nuget\\packages\\google.api.commonprotos\\2.6.0\\google.api.commonprotos.2.6.0.nupkg.sha512",
     "C:\\Users\\Pavle Curcic\\.nuget\\packages\\google.api.gax\\4.0.0\\google.api.gax.4.0.0.nupkg.sha512",

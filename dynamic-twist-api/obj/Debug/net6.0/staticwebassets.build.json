@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9FsQ2/AEBPPHM3T6g2VZCnehwOCXv1H8MRSpmn5wehs=",
+  "Hash": "MejHK38w55q2r6dBn0URjEeIFjldYJQb98eyU4Flmus=",
   "Source": "dynamic-twist-api",
   "BasePath": "_content/dynamic-twist-api",
   "Mode": "Default",
@@ -10,17 +10,34 @@
     {
       "Name": "dynamic-twist-api\\wwwroot",
       "Source": "dynamic-twist-api",
-      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\Developer blog\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
       "BasePath": "_content/dynamic-twist-api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\Developer blog\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-06-13#DynamoDbQuerying.html",
+      "Identity": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\about-me\\2022-08-18#AboutMe!.html",
       "SourceId": "dynamic-twist-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\Developer blog\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "BasePath": "_content/dynamic-twist-api",
+      "RelativePath": "html/about-me/2022-08-18#AboutMe!.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\about-me\\2022-08-18#AboutMe!.html"
+    },
+    {
+      "Identity": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-06-13#DynamoDbQuerying.html",
+      "SourceId": "dynamic-twist-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
       "BasePath": "_content/dynamic-twist-api",
       "RelativePath": "html/blog/2022-06-13#DynamoDbQuerying.html",
       "AssetKind": "All",
@@ -34,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\html\\blog\\2022-06-13#DynamoDbQuerying.html"
     },
     {
-      "Identity": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\Developer blog\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-07-28#SameSiteCookies.html",
+      "Identity": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-07-28#SameSiteCookies.html",
       "SourceId": "dynamic-twist-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\Developer blog\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
       "BasePath": "_content/dynamic-twist-api",
       "RelativePath": "html/blog/2022-07-28#SameSiteCookies.html",
       "AssetKind": "All",
