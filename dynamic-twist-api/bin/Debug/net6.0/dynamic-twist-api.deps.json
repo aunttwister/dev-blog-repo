@@ -14,6 +14,7 @@
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.16.1",
           "Newtonsoft.Json": "13.0.1",
           "Swashbuckle.AspNetCore": "6.3.1",
+          "System.Security.Cryptography.ProtectedData": "7.0.1",
           "Westwind.AspNetCore.Markdown": "3.9.0"
         },
         "runtime": {
@@ -344,6 +345,14 @@
       "System.Buffers/4.5.0": {},
       "System.Memory/4.5.3": {},
       "System.Runtime.CompilerServices.Unsafe/4.5.1": {},
+      "System.Security.Cryptography.ProtectedData/7.0.1": {
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.323.6910"
+          }
+        }
+      },
       "System.Text.Encodings.Web/4.5.0": {},
       "Westwind.AspNetCore.Markdown/3.9.0": {
         "dependencies": {
@@ -657,6 +666,13 @@
       "sha512": "sha512-Zh8t8oqolRaFa9vmOZfdQm/qKejdqz0J9kr7o2Fu0vPeoH3BL1EOXipKWwkWtLT1JPzjByrF19fGuFlNbmPpiw==",
       "path": "system.runtime.compilerservices.unsafe/4.5.1",
       "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3evI3sBfKqwYSwuBcYgShbmEgtXcg8N5Qu+jExLdkBXPty2yGDXq5m1/4sx9Exb8dqdeMPUs/d9DQ0wy/9Adwg==",
+      "path": "system.security.cryptography.protecteddata/7.0.1",
+      "hashPath": "system.security.cryptography.protecteddata.7.0.1.nupkg.sha512"
     },
     "System.Text.Encodings.Web/4.5.0": {
       "type": "package",

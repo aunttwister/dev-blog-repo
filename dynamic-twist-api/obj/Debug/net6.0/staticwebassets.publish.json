@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QYrat+48sCyS+86pHfh9xmaLsAGqg4xAadgrBGMONoU=",
+  "Hash": "5KSevV5GVhjvFfGZiTsS4hO5Ih/7PwTa62Twa/R+5wM=",
   "Source": "dynamic-twist-api",
   "BasePath": "_content/dynamic-twist-api",
   "Mode": "Default",
@@ -10,17 +10,34 @@
     {
       "Name": "dynamic-twist-api\\wwwroot",
       "Source": "dynamic-twist-api",
-      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
       "BasePath": "_content/dynamic-twist-api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-06-13#DynamoDbQuerying.html",
+      "Identity": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\about-me\\2022-08-18#AboutMe!.html",
       "SourceId": "dynamic-twist-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "BasePath": "_content/dynamic-twist-api",
+      "RelativePath": "html/about-me/2022-08-18#AboutMe!.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\about-me\\2022-08-18#AboutMe!.html"
+    },
+    {
+      "Identity": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-06-13#DynamoDbQuerying.html",
+      "SourceId": "dynamic-twist-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
       "BasePath": "_content/dynamic-twist-api",
       "RelativePath": "html/blog/2022-06-13#DynamoDbQuerying.html",
       "AssetKind": "All",
@@ -34,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\html\\blog\\2022-06-13#DynamoDbQuerying.html"
     },
     {
-      "Identity": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-07-28#SameSiteCookies.html",
+      "Identity": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\blog\\2022-07-28#SameSiteCookies.html",
       "SourceId": "dynamic-twist-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pavle Curcic\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
       "BasePath": "_content/dynamic-twist-api",
       "RelativePath": "html/blog/2022-07-28#SameSiteCookies.html",
       "AssetKind": "All",
@@ -49,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html\\blog\\2022-07-28#SameSiteCookies.html"
+    },
+    {
+      "Identity": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\html\\tutorial\\2022-08-20#Tutorial-HostNETAppOnUbuntu.html",
+      "SourceId": "dynamic-twist-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavle\\Documents\\My Projects\\DynamicTwist\\dynamic-twist-api\\dynamic-twist-api\\wwwroot\\",
+      "BasePath": "_content/dynamic-twist-api",
+      "RelativePath": "html/tutorial/2022-08-20#Tutorial-HostNETAppOnUbuntu.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\tutorial\\2022-08-20#Tutorial-HostNETAppOnUbuntu.html"
     }
   ]
 }

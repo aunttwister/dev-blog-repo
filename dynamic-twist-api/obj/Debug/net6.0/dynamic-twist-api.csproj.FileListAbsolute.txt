@@ -74,3 +74,158 @@ C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dyn
 C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Mammoth.dll
 C:\Users\Pavle Curcic\Documents\My Projects\Developer blog\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.staticwebassets.runtime.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.exe
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.deps.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.runtimeconfig.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Cloud.Iam.V1.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Cloud.SecretManager.V1.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Mammoth.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Markdig.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Westwind.AspNetCore.Markdown.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.AssemblyReference.cache
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfoInputs.cache
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfo.cs
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CoreCompileInputs.cache
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\scopedcss\bundle\dynamic-twist-api.styles.css
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CopyComplete
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\refint\dynamic-twist-api.dll
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.genruntimeconfig.cache
+C:\Users\Pavle Curcic\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\ref\dynamic-twist-api.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.staticwebassets.runtime.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.exe
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.deps.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.runtimeconfig.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Cloud.Iam.V1.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Cloud.SecretManager.V1.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Mammoth.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Markdig.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Westwind.AspNetCore.Markdown.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.AssemblyReference.cache
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfoInputs.cache
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfo.cs
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CoreCompileInputs.cache
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.dynamic-twist-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.build.dynamic-twist-api.props
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.dynamic-twist-api.props
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.dynamic-twist-api.props
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\scopedcss\bundle\dynamic-twist-api.styles.css
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CopyComplete
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\refint\dynamic-twist-api.dll
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.genruntimeconfig.cache
+C:\Users\pavle\OneDrive\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\ref\dynamic-twist-api.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.staticwebassets.runtime.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.exe
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.deps.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.runtimeconfig.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Cloud.Iam.V1.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Cloud.SecretManager.V1.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Mammoth.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Markdig.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\Westwind.AspNetCore.Markdown.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.AssemblyReference.cache
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.dynamic-twist-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.build.dynamic-twist-api.props
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.dynamic-twist-api.props
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.dynamic-twist-api.props
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\scopedcss\bundle\dynamic-twist-api.styles.css
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.csproj.CopyComplete
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\refint\dynamic-twist-api.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.pdb
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\dynamic-twist-api.genruntimeconfig.cache
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\obj\Debug\net6.0\ref\dynamic-twist-api.dll
+C:\Users\pavle\Documents\My Projects\DynamicTwist\dynamic-twist-api\dynamic-twist-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll

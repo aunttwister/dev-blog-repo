@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dynamic-twist-api.props" />
+</Project>

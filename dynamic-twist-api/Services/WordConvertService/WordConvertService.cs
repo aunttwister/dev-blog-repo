@@ -19,9 +19,13 @@ namespace dynamic_twist_api.Services.WordConvertService
                     {
                         var base64 = stream.ConvertToBase64();
                         var src = "data:" + img.ContentType + ";base64," + base64;
-                        return new Dictionary<string, string> { { "src", src } };
+                        return new Dictionary<string, string> { { "src", src }, { "class", "img-fluid" } };
                     }
-                    });
+                    })
+                .AddStyleMap("p[style-name='Code Block'] => pre:separator('\\n')")
+                .AddStyleMap("p[style-name='Subtitle'] => i")
+                .AddStyleMap("p[style-name='Heading 1'] => h1:fresh")
+                .AddStyleMap("p[style-name='Heading 2'] => h2:fresh");
             var html = docConverter.ConvertToHtml(wordFileData);
 
             var directoryPath = _hostEnvironment.WebRootPath + $"/html/{type}/";

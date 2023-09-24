@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace dynamic_twist_api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     [Produces("application/json")]
     public class ArticleController : Controller
