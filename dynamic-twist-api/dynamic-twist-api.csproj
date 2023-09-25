@@ -20,7 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application.Core\Exceptions\" />
     <Folder Include="wwwroot\html\about-me\" />
     <Folder Include="wwwroot\html\blog\" />
     <Folder Include="wwwroot\html\tutorial\" />

@@ -23,7 +23,7 @@ namespace dynamic_twist_api.Controllers
         {
             var result = await _articleService.GetArticlesAsync(type);
 
-            return Ok(result.OrderByDescending(f => f.PublishDate));
+            return Ok(result.Where(r => r != null).OrderByDescending(f => f.PublishDate));
         }
         [HttpGet]
         [Route("get/{type}/{fileName}")]

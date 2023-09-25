@@ -20,24 +20,25 @@ namespace dynamic_twist_api.FileResolver.Services
             IEnumerable<string> fileNameElements = file.Name.Split(Splitters.ToArray(), StringSplitOptions.None).AsEnumerable();
 
             if (fileNameElements.Count() != Splitters.Count + 1)
-                throw new NameUnresolvedException($"Unable to resolve {file.Name} name.\nDelete this file and repost it.");
+                return null;
 
             return fileNameElements;
         }
 
         public IFileInfo[] ResolveFiles(string type)
         {
-            string path = BasePath + $"{type}/";
-            if (!Directory.Exists(path))
+            string path = BasePath + $"{type}";
+            IFileInfo[] files = _hostEnvironment.WebRootFileProvider.GetDirectoryContents(path)
+                                                                        .Where(f => f.Exists)
+                                                                        .ToArray();
+            if (files == null)
             {
                 IDirectoryContents directoryContents = _hostEnvironment.WebRootFileProvider.GetDirectoryContents(BasePath);
-                string availableTypes = string.Join(",", directoryContents.Where(f => f.IsDirectory).Select(f => f.Name));
+                string availableTypes = string.Join(", ", directoryContents.Where(f => f.IsDirectory).Select(f => f.Name));
 
                 throw new PathUnresolvableException($"Unable to resolve path {path}. Type {type} might be wrong. Available types are: {availableTypes}.");
             }
-            return _hostEnvironment.WebRootFileProvider.GetDirectoryContents($"/html/{type}/")
-                                                                    .Where(f => f.Exists)
-                                                                    .ToArray();
+            return files;
         }
 
         public IFileInfo ResolveFile(string type, string fileName)
@@ -47,7 +48,10 @@ namespace dynamic_twist_api.FileResolver.Services
 
         public string ResolveFilePath(string type, string fileName)
         {
-            return (_hostEnvironment.WebRootPath + $"/html/{type}/{fileName}.html");
+            if (fileName.Contains(".html"))
+                return (_hostEnvironment.WebRootPath + $".\\html\\{type}\\{fileName}");
+            else
+                return (_hostEnvironment.WebRootPath + $".\\html\\{type}\\{fileName}.html");
         }
 
         public bool FileUnique(string type, string fileName)

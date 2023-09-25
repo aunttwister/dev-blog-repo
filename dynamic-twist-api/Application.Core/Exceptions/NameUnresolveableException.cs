@@ -1,4 +1,4 @@
-﻿namespace dynamic_twist_api.FileResolver.Exceptions
+﻿namespace dynamic_twist_api.Application.Core.Exceptions
 {
     public class NameUnresolveableException : Exception
     {
