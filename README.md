@@ -2,3 +2,5 @@
 
 # dynamic-twist
 This is a repository that contains the project's code.
+
+I aimed to avoid setting up a database.
