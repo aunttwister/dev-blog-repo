@@ -1,0 +1,22 @@
+<div *ngIf="isLoaded" class="container">
+  <div class="row">
+    <div class="col-3">
+    </div>
+    <div class="col-sm-6">
+      <div *ngIf="articles.length == 0">
+        <h2>No content at the moment. :)</h2>
+      </div>
+      <div *ngFor="let article of articles">
+        <div
+          [innerHtml]="article.body">
+        </div>
+        <div *ngIf="article != articles[articles.length - 1]">
+          <hr><br>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      
+    </div>
+  </div>
+</div>
